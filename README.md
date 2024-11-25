@@ -45,12 +45,13 @@ Identify jobs needing maintenance using customizable ratios.
 
 
 #### Batch Scheduling:
-Group maintenance tasks into 7-day rolling windows.
 Optimize batch jobs to reduce operational disruption.
 
 #### Visualizations:
 Interactive graphs showing forecasted workloads, planned workloads, and critical/maintenance-needed markers.
 Overlayed bar charts for quick comparison of actual vs. planned workloads.
+
+![image](https://github.com/user-attachments/assets/18ba259d-3cdb-4f3d-8a4c-3e02be41f62a)
 
 
 ![image](https://github.com/user-attachments/assets/37279a6a-5741-4117-b0cc-b1a72747c8ba)
