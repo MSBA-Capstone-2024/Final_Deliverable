@@ -5,6 +5,7 @@
 
 
 ## Problem Statement
+----
 #### Maintenance scheduling for machinery often involves reactive measures, resulting in unplanned downtimes and inefficiencies. This project addresses these challenges by:
 Forecasting Workload: Using historical workload data to predict future maintenance needs.
 Identifying Critical Jobs: Flagging high-priority jobs with significant workload or operational importance.
@@ -12,13 +13,15 @@ Batching Maintenance: Grouping maintenance tasks into optimal intervals to reduc
 
 ---
 
+![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
+
+---
+
 ## Presentation
 #### The accompanying slide deck explains the problem, methodology, and actionable insights derived from this project. It includes:
 
 ---
-![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
 
----
 ### Problem Overview
 #### Methodology (Prophet Modeling & Batching Logic)
 #### Key Insights
@@ -48,3 +51,9 @@ Optimize batch jobs to reduce operational disruption.
 #### Visualizations:
 Interactive graphs showing forecasted workloads, planned workloads, and critical/maintenance-needed markers.
 Overlayed bar charts for quick comparison of actual vs. planned workloads.
+
+
+![image](https://github.com/user-attachments/assets/37279a6a-5741-4117-b0cc-b1a72747c8ba)
+
+
+
