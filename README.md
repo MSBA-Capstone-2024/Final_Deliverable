@@ -2,6 +2,11 @@
 ### This project leverages Facebook Prophet and Python to forecast maintenance needs and optimize scheduling for critical machinery. By using advanced time series forecasting techniques, we aim to minimize downtime, optimize resource allocation, and prioritize critical jobs effectively.
 
 
+![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
+
+
+
+
 ## Problem Statement
 #### Maintenance scheduling for machinery often involves reactive measures, resulting in unplanned downtimes and inefficiencies. This project addresses these challenges by:
 Forecasting Workload: Using historical workload data to predict future maintenance needs.
