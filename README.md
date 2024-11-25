@@ -37,6 +37,12 @@ Batching Maintenance: Grouping maintenance tasks into optimal intervals to reduc
 Flag critical jobs based on workload thresholds
 Identify jobs needing maintenance using customizable ratios.
 
+
+![image](https://github.com/user-attachments/assets/163be33c-a338-4518-a155-a9c9854e0abc)
+
+
+
+
 #### Batch Scheduling:
 Group maintenance tasks into 7-day rolling windows.
 Optimize batch jobs to reduce operational disruption.
