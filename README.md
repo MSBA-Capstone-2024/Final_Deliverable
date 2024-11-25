@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
+
 
 
 # Predictive Maintenance Optimization with Prophet and Python
@@ -16,6 +16,9 @@ Batching Maintenance: Grouping maintenance tasks into optimal intervals to reduc
 
 ## Presentation
 #### The accompanying slide deck explains the problem, methodology, and actionable insights derived from this project. It includes:
+
+
+![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
 
 
 ### Problem Overview
