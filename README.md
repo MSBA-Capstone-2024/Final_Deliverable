@@ -1,8 +1,8 @@
+![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
+
+
 # Predictive Maintenance Optimization with Prophet and Python
 ### This project leverages Facebook Prophet and Python to forecast maintenance needs and optimize scheduling for critical machinery. By using advanced time series forecasting techniques, we aim to minimize downtime, optimize resource allocation, and prioritize critical jobs effectively.
-
-
-![image](https://github.com/user-attachments/assets/4adafcd0-4aee-486b-90da-cb760eaa656d)
 
 
 
@@ -18,21 +18,21 @@ Batching Maintenance: Grouping maintenance tasks into optimal intervals to reduc
 #### The accompanying slide deck explains the problem, methodology, and actionable insights derived from this project. It includes:
 
 
-Problem Overview
-Methodology (Prophet Modeling & Batching Logic)
-Key Insights
-Recommendations - PowerBi Dashboard
+### Problem Overview
+#### Methodology (Prophet Modeling & Batching Logic)
+#### Key Insights
+#### Recommendations - PowerBi Dashboard
 
 
 
 ## Features
 #### Time Series Forecasting:
-Predict workloads using Prophet’s yhat values.
-Simulate workload changes under planned maintenance scenarios (yhat_planned).
+#### Predict workloads using Prophet’s yhat values.
+#### Simulate workload changes under planned maintenance scenarios (yhat_planned).
 
 #### Maintenance Prioritization:
-Flag critical jobs based on workload thresholds (critical_job).
-Identify jobs needing maintenance (maintenance_needed) using customizable ratios.
+Flag critical jobs based on workload thresholds
+Identify jobs needing maintenance using customizable ratios.
 
 #### Batch Scheduling:
 Group maintenance tasks into 7-day rolling windows.
