@@ -1,6 +1,7 @@
 # Predictive Maintenance Optimization with Prophet and Python
 ### This project utilizes the Facebook Prophet model and Python to forecast maintenance time trends, enabling more informed decision-making. By applying advanced time series forecasting techniques, the goal is to minimize downtime, optimize resource allocation, and effectively prioritize critical tasks.
 
+Grif Brown, Kathryn O'Connor, Kim Buesser, Kyle Anderson
 ---
 
 
