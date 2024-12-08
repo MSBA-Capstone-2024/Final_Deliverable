@@ -24,7 +24,7 @@ Identifying Critical Jobs: Flagging high-priority jobs with significant workload
 ---
 
 ### Problem Overview
-#### Methodology (Prophet Modeling & Batching Logic)
+#### Methodology (Prophet Modeling)
 #### Key Insights
 #### Recommendations - PowerBi Dashboard
 
@@ -45,8 +45,8 @@ Identify jobs needing maintenance using customizable ratios.
 
 
 
-#### Batch Scheduling:
-Optimize batch jobs to reduce operational disruption.
+#### Scheduling:
+Optimize jobs to reduce operational disruption.
 
 #### Visualizations:
 Interactive graphs showing forecasted workloads, planned workloads, and critical/maintenance-needed markers.
